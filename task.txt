@@ -1,0 +1,17 @@
+[
+    {
+        "pid":234,
+        "cpu": 30,
+        "user": "fabianschmauder"
+    },
+    {
+        "pid":134,
+        "cpu": 20,
+        "user": "fabianschmauder"
+    },
+    {
+        "pid":33,
+        "cpu": 10,
+        "user": "fabianschmauder"
+    }
+]

@@ -1,0 +1,21 @@
+[
+{ "pid" : 157 , 
+    "cpu": 21.8,
+    "user": "_windowserver" }
+,
+{ "pid" : 501 , 
+    "cpu": 13.7,
+    "user": "shaktithandavan" }
+,
+{ "pid" : 686 , 
+    "cpu": 11.6,
+    "user": "shaktithandavan" }
+,
+{ "pid" : 1557 , 
+    "cpu": 9.8,
+    "user": "shaktithandavan" }
+,
+{ "pid" : 180 , 
+    "cpu": 7.3,
+    "user": "_coreaudiod" }
+]
